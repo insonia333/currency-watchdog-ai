@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # Welcome to your Lovable project
 
 ## Project info
@@ -67,3 +68,76 @@ Simply open [Lovable](https://lovable.dev/projects/31219ad0-1937-433f-a525-2e749
 ## I want to use a custom domain - is that possible?
 
 We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
+=======
+# Currency Watchdog AI
+
+Uma aplicação web moderna para monitoramento de moedas em tempo real com insights baseados em IA.
+
+## Funcionalidades
+
+- Monitoramento em tempo real de taxas de câmbio
+- Conversor de moedas
+- Gráficos de tendências
+- Insights gerados por IA
+- Mapa global de moedas
+- Análise de mercado
+- Sistema de favoritos
+- Interface responsiva e moderna
+
+## Tecnologias Utilizadas
+
+- React + TypeScript
+- Vite
+- Tailwind CSS
+- Shadcn/ui
+- React Query
+- Recharts
+- React Router
+- Lucide Icons
+
+## Como Executar
+
+1. Clone o repositório:
+```bash
+git clone https://github.com/seu-usuario/currency-watchdog-ai.git
+cd currency-watchdog-ai
+```
+
+2. Instale as dependências:
+```bash
+npm install
+```
+
+3. Execute o projeto em modo de desenvolvimento:
+```bash
+npm run dev
+```
+
+4. Acesse a aplicação em `http://localhost:8080`
+
+## Estrutura do Projeto
+
+```
+src/
+  ├── components/     # Componentes reutilizáveis
+  ├── pages/         # Páginas da aplicação
+  ├── services/      # Serviços e APIs
+  ├── lib/           # Utilitários e configurações
+  ├── hooks/         # Hooks personalizados
+  └── styles/        # Estilos globais
+```
+
+## Contribuindo
+
+Contribuições são bem-vindas! Por favor, siga estes passos:
+
+1. Faça um fork do projeto
+2. Crie uma branch para sua feature (`git checkout -b feature/AmazingFeature`)
+3. Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`)
+4. Push para a branch (`git push origin feature/AmazingFeature`)
+5. Abra um Pull Request
+
+## Licença
+
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
+>>>>>>> Stashed changes
